@@ -8,3 +8,10 @@
 ```
 println("Hola XD")
 ```
+
+#### Lenguajes
+- Python
+- Java
+- Kotlin
+- Java Script
+- C
