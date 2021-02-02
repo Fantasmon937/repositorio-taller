@@ -14,5 +14,10 @@ println("Hola XD")
 - Java
 - Kotlin
 - Java Script
-- - XD
 - C
+
+Ingles  | Japones
+------------- | -------------
+XD | takataka
+Khe es eso  | Nihon
+
