@@ -21,3 +21,4 @@ Ingles  | Japones
 XD | takataka
 Khe es eso  | Nihon
 
+$$ (∂ + m) ψ = 0 $$
